@@ -1,0 +1,37 @@
+{
+  "name": "webstarter",
+  "version": "0.0.0",
+  "description": "Angular, Gulp, Webpack Starter\r =============================\r This starter kit configures [webpack](webpack.github.io) and [gulp](gulpjs.com) with an Angular single page app. For the three part blog post that accompanies this, head over to [Part III](http://luwen-huang.net/2015/01/25/Angular-webpack-and-gulp-for-SPAs-Part-III.html).",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp-webpack": "~1.5.0",
+    "webpack": "~1.12.2",
+    "autoprefixer-loader": "~1.1.0",
+    "bundle-loader": "~0.5.3",
+    "chai": "~1.10.0",
+    "gulp-cache": "~0.1.11",
+    "chai-as-promised": "~4.1.1",
+    "gulp-clean": "~0.2.4",
+    "gulp-concat": "~2.4.3",
+    "gulp-flatten": "~0.0.2",
+    "connect-livereload": "~0.4.1",
+    "gulp": "~3.9.0",
+    "gulp-html-replace": "~1.4.4",
+    "css-loader": "~0.9.1",
+    "gulp-filter": "~0.4.1",
+    "connect": "~2.28.3",
+    "connect-modrewrite": "~0.7.9",
+    "gulp-load-plugins": "~1.0.0-rc.1",
+    "opn": "~3.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:XanderDwyl/webstarter.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
